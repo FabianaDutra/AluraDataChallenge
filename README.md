@@ -5,4 +5,4 @@
 <h3>SEMANA 2 -</h3>
 <h3>SEMANA 3 -</h3>
 <h4>SEMANA 4 -</h4>
-<p><span style="color: #0000ff;"><br />#alurachallengedatascience1</span></p>
+
