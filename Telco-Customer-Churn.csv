@@ -944,7 +944,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 1360-XFJMR,0,1,0,1,0,67,1,1,Fiber optic,0,1,1,1,1,1,1_ano,1,3.66,cartao_credito,109.7,7344.45
 1363-TXLSL,1,0,1,1,0,1,1,0,Fiber optic,0,0,0,0,0,0,mensal,1,2.34,cheque_eletronico,70.3,70.3
 1370-GGAWX,0,1,0,0,0,46,1,1,Fiber optic,0,1,1,0,0,1,1_ano,1,3.14,cheque_eletronico,94.15,4408.45
-1371-DWPAZ,0,1,0,1,1,0,0,0,DSL,1,1,1,1,1,0,2_anos,0,1.87,cartao_credito,56.05,0.0
+1371-DWPAZ,0,1,0,1,1,0,0,0,DSL,1,1,1,1,1,0,2_anos,0,1.87,cartao_credito,56.05,56.05
 1371-OJCEK,0,1,0,0,0,48,1,1,No,0,0,0,0,0,0,1_ano,0,0.81,transferencia_bancária,24.35,1133.7
 1371-WEPDS,0,0,1,1,0,40,1,0,DSL,0,0,0,0,0,1,1_ano,0,1.86,cheque_eletronico,55.8,2283.3
 1373-ORVIZ,1,1,0,1,1,11,1,1,DSL,0,0,0,1,0,1,mensal,1,2.21,cheque_eletronico,66.35,740.8
@@ -1730,7 +1730,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 2519-FAKOD,1,0,0,0,1,38,1,1,Fiber optic,0,0,1,0,1,1,mensal,1,3.31,transferencia_bancária,99.25,3777.15
 2519-LBNQL,0,0,1,1,0,60,1,1,Fiber optic,0,1,1,0,1,1,1_ano,1,3.48,cheque_eletronico,104.35,6339.45
 2519-TWKFS,0,0,0,1,1,25,1,1,DSL,0,0,0,1,0,0,1_ano,1,1.84,cheque_postal,55.1,1466.1
-2520-SGTTA,0,1,0,1,1,0,1,0,No,0,0,0,0,0,0,2_anos,0,0.67,cheque_postal,20.0,0.0
+2520-SGTTA,0,1,0,1,1,0,1,0,No,0,0,0,0,0,0,2_anos,0,0.67,cheque_postal,20.0,20.0
 2521-NPUZR,0,0,0,1,0,70,1,0,Fiber optic,1,1,1,1,0,1,2_anos,0,3.37,cartao_credito,101.0,7085.5
 2522-AHJXR,0,0,0,1,0,60,1,1,Fiber optic,1,0,1,1,1,1,mensal,1,3.65,transferencia_bancária,109.45,6572.85
 2522-WLNSF,0,1,1,1,0,34,1,0,DSL,0,0,1,1,1,0,1_ano,0,2.14,transferencia_bancária,64.2,2106.3
@@ -1905,7 +1905,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 2773-MADBQ,0,1,0,0,0,36,0,0,DSL,1,1,1,1,0,1,2_anos,1,1.77,cheque_postal,53.1,1901.25
 2773-OVBPK,0,0,0,1,0,67,1,1,Fiber optic,0,1,1,1,1,1,2_anos,1,3.71,transferencia_bancária,111.3,7567.2
 2774-LVQUS,1,1,1,1,0,15,1,1,Fiber optic,0,0,1,1,0,0,mensal,1,2.77,cheque_eletronico,83.05,1258.3
-2775-SEFEE,0,0,0,0,1,0,1,1,DSL,1,1,0,1,0,0,2_anos,1,2.06,transferencia_bancária,61.9,0.0
+2775-SEFEE,0,0,0,0,1,0,1,1,DSL,1,1,0,1,0,0,2_anos,1,2.06,transferencia_bancária,61.9,61.9
 2777-PHDEI,1,1,0,0,0,1,1,0,Fiber optic,0,0,0,0,1,0,mensal,0,2.6,cheque_eletronico,78.05,78.05
 2778-OCLGR,1,0,1,1,0,24,0,0,DSL,1,0,0,0,0,1,mensal,0,1.3,transferencia_bancária,39.1,971.3
 2782-JEEBU,0,0,0,0,0,21,0,0,DSL,0,1,0,1,0,0,mensal,1,1.2,cheque_postal,36.0,780.15
@@ -2024,7 +2024,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 2919-HBCJO,1,1,0,0,0,4,1,0,Fiber optic,0,1,0,0,0,0,mensal,1,2.56,transferencia_bancária,76.65,333.6
 2920-RNCEZ,0,0,0,1,1,1,1,0,Fiber optic,0,0,0,0,0,0,mensal,1,2.33,cartao_credito,69.95,69.95
 2921-XWDJH,0,1,1,1,0,38,1,0,Fiber optic,1,0,0,0,0,1,mensal,1,2.78,cheque_eletronico,83.45,3147.15
-2923-ARZLG,0,0,0,1,1,0,1,0,No,0,0,0,0,0,0,1_ano,1,0.66,cheque_postal,19.7,0.0
+2923-ARZLG,0,0,0,1,1,0,1,0,No,0,0,0,0,0,0,1_ano,1,0.66,cheque_postal,19.7,19.7
 2924-KHUVI,0,0,0,1,0,56,1,1,Fiber optic,1,0,0,0,1,1,1_ano,1,3.35,cheque_eletronico,100.55,5514.95
 2925-MXLSX,0,1,0,0,0,30,1,1,DSL,0,1,1,0,1,0,1_ano,1,2.3,cartao_credito,68.95,2038.7
 2925-VDZHY,0,0,0,1,1,72,1,1,DSL,1,1,1,1,1,1,2_anos,0,2.96,cartao_credito,88.7,6501.35
@@ -2175,7 +2175,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 3106-ULWFW,1,1,0,1,0,8,1,1,Fiber optic,0,0,0,0,0,1,mensal,1,2.84,cartao_credito,85.2,627.4
 3108-PCCGG,0,0,1,1,0,72,1,1,DSL,1,1,1,0,1,1,2_anos,0,2.82,cartao_credito,84.45,5899.85
 3113-IWHLC,0,0,0,0,0,5,1,0,DSL,1,0,1,0,0,0,mensal,1,1.86,cheque_postal,55.8,274.35
-3115-CZMZD,0,0,0,0,1,0,1,0,No,0,0,0,0,0,0,2_anos,0,0.68,cheque_postal,20.25,0.0
+3115-CZMZD,0,0,0,0,1,0,1,0,No,0,0,0,0,0,0,2_anos,0,0.68,cheque_postal,20.25,20.25
 3115-JPJDD,0,1,0,1,0,59,1,0,Fiber optic,1,0,1,0,0,0,1_ano,1,2.71,cartao_credito,81.25,4639.45
 3118-UHVVQ,0,1,0,1,0,68,1,1,No,0,0,0,0,0,0,2_anos,0,0.86,cartao_credito,25.8,1911.5
 3120-FAZKD,0,0,0,1,1,54,1,1,No,0,0,0,0,0,0,2_anos,1,0.8,transferencia_bancária,24.05,1230.9
@@ -2249,7 +2249,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 3211-AAPKX,0,0,0,0,0,20,1,1,Fiber optic,0,0,0,1,1,1,mensal,1,3.28,cheque_postal,98.55,2031.95
 3211-ILJTT,1,0,0,1,0,17,1,0,Fiber optic,0,0,0,0,0,0,mensal,1,2.35,transferencia_bancária,70.4,1214.05
 3212-KXOCR,0,0,0,0,0,52,1,0,No,0,0,0,0,0,0,2_anos,0,0.7,transferencia_bancária,21.0,1107.2
-3213-VVOLG,0,0,0,1,1,0,1,1,No,0,0,0,0,0,0,2_anos,0,0.85,cheque_postal,25.35,0.0
+3213-VVOLG,0,0,0,1,1,0,1,1,No,0,0,0,0,0,0,2_anos,0,0.85,cheque_postal,25.35,25.35
 3214-IYUUQ,0,1,0,1,0,61,1,0,Fiber optic,1,1,0,1,0,1,1_ano,0,3.12,transferencia_bancária,93.7,5860.7
 3217-FZDMN,1,1,1,0,0,8,1,0,Fiber optic,0,0,1,0,1,1,mensal,1,3.15,cartao_credito,94.45,742.95
 3219-JQRSL,0,1,1,1,0,72,1,1,DSL,1,1,1,1,1,1,2_anos,0,2.97,cartao_credito,89.1,6352.4
@@ -2854,7 +2854,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 4072-IPYLT,0,1,0,1,1,36,1,0,DSL,1,0,0,0,0,0,mensal,0,1.7,cartao_credito,51.05,1815.0
 4074-SJFFA,1,1,0,0,0,1,1,0,DSL,0,0,0,0,0,1,mensal,1,1.82,cheque_postal,54.75,54.75
 4075-JFPGR,0,1,0,1,0,51,1,0,Fiber optic,1,1,1,0,1,0,1_ano,1,3.12,cheque_eletronico,93.5,4619.55
-4075-WKNIU,0,1,0,1,1,0,1,1,DSL,0,1,1,1,1,0,2_anos,0,2.44,cheque_postal,73.35,0.0
+4075-WKNIU,0,1,0,1,1,0,1,1,DSL,0,1,1,1,1,0,2_anos,0,2.44,cheque_postal,73.35,73.35
 4077-CROMM,1,1,0,1,1,31,1,1,Fiber optic,0,0,1,1,1,1,mensal,1,3.47,cheque_eletronico,104.2,3243.45
 4077-HWUYD,0,0,0,1,1,72,1,1,DSL,1,1,1,1,1,1,2_anos,1,2.92,transferencia_bancária,87.55,6463.15
 4078-SAYYN,1,1,0,0,0,11,1,1,Fiber optic,0,0,1,0,1,1,mensal,1,3.36,cheque_eletronico,100.75,1129.75
@@ -3051,7 +3051,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 4365-MSDYN,0,0,0,1,0,8,1,0,No,0,0,0,0,0,0,mensal,1,0.65,transferencia_bancária,19.55,161.15
 4366-CTOUZ,0,1,0,0,0,50,1,0,Fiber optic,0,1,0,1,1,1,2_anos,1,3.34,cheque_postal,100.2,5038.45
 4367-NHWMM,0,1,0,0,0,1,0,0,DSL,0,0,0,0,0,0,mensal,1,0.83,cheque_postal,24.9,24.9
-4367-NUYAO,0,0,0,1,1,0,1,1,No,0,0,0,0,0,0,2_anos,0,0.86,cheque_postal,25.75,0.0
+4367-NUYAO,0,0,0,1,1,0,1,1,No,0,0,0,0,0,0,2_anos,0,0.86,cheque_postal,25.75,25.75
 4369-HTUIF,1,0,1,0,0,6,1,0,Fiber optic,1,0,0,0,1,0,mensal,1,2.84,transferencia_bancária,85.15,503.6
 4369-NYSCF,0,0,0,0,0,56,1,0,DSL,0,1,0,1,1,1,1_ano,1,2.52,transferencia_bancária,75.75,4284.65
 4373-MAVJG,1,1,0,1,1,14,1,1,Fiber optic,0,1,0,0,0,1,mensal,1,3.03,transferencia_bancária,90.9,1259.0
@@ -3117,7 +3117,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 4468-KAZHE,0,1,1,1,0,20,1,0,DSL,0,1,0,0,0,1,mensal,1,2.0,cheque_eletronico,60.0,1259.35
 4468-YDOVK,0,0,0,0,1,5,1,0,DSL,0,0,0,1,0,0,mensal,1,1.62,transferencia_bancária,48.65,235.2
 4471-KXAUH,1,1,0,1,0,42,1,1,Fiber optic,0,0,1,1,0,0,mensal,1,2.81,cheque_eletronico,84.3,3588.4
-4472-LVYGI,0,1,0,1,1,0,0,0,DSL,1,0,1,1,1,0,2_anos,1,1.75,transferencia_bancária,52.55,0.0
+4472-LVYGI,0,1,0,1,1,0,0,0,DSL,1,0,1,1,1,0,2_anos,1,1.75,transferencia_bancária,52.55,52.55
 4472-VESGY,0,1,0,1,1,52,1,1,Fiber optic,1,1,1,0,0,1,mensal,0,3.27,transferencia_bancária,98.15,4993.4
 4475-NVTLU,0,0,0,1,1,45,1,0,No,0,0,0,0,0,0,2_anos,0,0.64,cheque_eletronico,19.2,903.7
 4476-OSWTN,0,0,1,1,0,69,1,1,Fiber optic,1,0,1,1,1,1,1_ano,1,3.68,cheque_postal,110.55,7610.1
@@ -4053,7 +4053,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 5707-ORNDZ,1,0,1,0,0,9,1,1,DSL,1,0,0,0,0,0,mensal,0,1.82,cheque_eletronico,54.55,494.05
 5707-ZMDJP,0,0,0,1,1,53,1,0,DSL,1,1,0,1,1,0,2_anos,1,2.32,cheque_postal,69.7,3729.6
 5708-EVONK,1,1,0,1,1,58,1,1,Fiber optic,1,1,0,0,0,1,mensal,1,3.11,transferencia_bancária,93.4,5435.6
-5709-LVOEQ,0,1,0,1,1,0,1,0,DSL,1,1,1,0,1,1,2_anos,0,2.7,cheque_postal,80.85,0.0
+5709-LVOEQ,0,1,0,1,1,0,1,0,DSL,1,1,1,0,1,1,2_anos,0,2.7,cheque_postal,80.85,80.85
 5712-AHQNN,0,1,0,0,0,43,1,0,Fiber optic,0,1,1,0,1,0,mensal,1,3.06,cheque_eletronico,91.65,3954.1
 5712-PTIWW,1,0,0,0,0,2,1,0,Fiber optic,0,0,1,1,0,0,mensal,1,2.66,cheque_eletronico,79.85,152.45
 5712-VBOXD,0,1,0,0,0,4,1,0,No,0,0,0,0,0,0,mensal,1,0.67,cartao_credito,20.15,68.45
@@ -5432,7 +5432,7 @@ ID_cliente,Churn,genero,senioridade,parceiro,dependentes,meses_contrato,servico_
 7641-EUYET,1,0,1,1,1,46,1,1,Fiber optic,1,1,1,0,1,0,mensal,1,3.36,cheque_eletronico,100.7,4541.2
 7641-TQFHN,0,0,0,0,1,39,1,1,Fiber optic,0,0,0,1,1,1,2_anos,0,3.35,cheque_postal,100.55,3895.35
 7643-RCHXS,0,1,0,1,1,63,1,0,No,0,0,0,0,0,0,2_anos,0,0.64,cheque_eletronico,19.35,1263.85
-7644-OMVMY,0,0,0,1,1,0,1,0,No,0,0,0,0,0,0,2_anos,0,0.66,cheque_postal,19.85,0.0
+7644-OMVMY,0,0,0,1,1,0,1,0,No,0,0,0,0,0,0,2_anos,0,0.66,cheque_postal,19.85,19.85
 7647-GYYKX,0,1,0,1,1,54,1,0,No,0,0,0,0,0,0,2_anos,1,0.68,transferencia_bancária,20.35,1092.35
 7649-PHJVR,0,0,0,0,0,11,1,0,No,0,0,0,0,0,0,1_ano,0,0.65,cheque_postal,19.5,226.8
 7649-SIJJF,0,0,0,1,0,71,1,1,DSL,1,1,1,1,0,1,2_anos,1,2.67,cheque_postal,80.1,5585.4
